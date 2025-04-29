@@ -10,6 +10,7 @@ import base64
 
 creds_json = base64.b64decode(os.environ["GOOGLE_CREDS"]).decode("utf-8")
 
+
 # Write to a temporary file
 with open("credentials.json", "w") as f:
     f.write(creds_json)
