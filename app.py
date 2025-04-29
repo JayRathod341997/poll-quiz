@@ -5,10 +5,19 @@ from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
 import pandas as pd
 import matplotlib.pyplot as plt
+import os
+import base64
 
+creds_json = base64.b64decode(os.environ["GOOGLE_CREDS"]).decode("utf-8")
+
+# Write to a temporary file
+with open("credentials.json", "w") as f:
+    f.write(creds_json)
 # Google Sheet setup
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
+
+from google.oauth2 import service_account
+creds = service_account.Credentials.from_service_account_file("credentials.json")
 client = gspread.authorize(creds)
 sheet = client.open("Developer Poll").worksheet("Responses")
 

@@ -1,4 +1,3 @@
 venv
+*.b64
 credentials.json
-__pycache__
-*.pyc
