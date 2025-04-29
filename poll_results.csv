@@ -1,0 +1,60 @@
+Timestamp,Question,Answer,Q1,Q2,Q3,Q4,Q5
+2025-04-29 13:31:23.084549,1. What is your favorite programming language?,Python,,,,,
+2025-04-29 13:31:25.747813,2. How often do you code?,Weekly,,,,,
+2025-04-29 13:32:15.985620,1. What is your favorite programming language?,Python,,,,,
+2025-04-29 13:32:18.156251,2. How often do you code?,Weekly,,,,,
+2025-04-29 13:32:21.133050,2. How often do you code?,Rarely,,,,,
+2025-04-29 13:32:23.403656,1. What is your favorite programming language?,JavaScript,,,,,
+2025-04-29 13:32:28.695773,1. What is your favorite programming language?,JavaScript,,,,,
+2025-04-29 13:32:31.550157,1. What is your favorite programming language?,JavaScript,,,,,
+2025-04-29 13:32:31.604650,1. What is your favorite programming language?,JavaScript,,,,,
+2025-04-29 13:32:31.761169,1. What is your favorite programming language?,JavaScript,,,,,
+2025-04-29 13:32:34.913198,1. What is your favorite programming language?,C++,,,,,
+,,,Python,1-2 times,Jupyter Notebook,Mobile Dev,YouTube
+,,,Java,Daily,VSCode,Web Dev,YouTube
+2025-04-29 13:36:09.180818,3. Preferred OS,Linux
+2025-04-29 13:36:10.309254,5. Favorite IDE,VS Code
+2025-04-29 13:36:10.838518,4. Cloud Platform Experience,AWS
+2025-04-29 13:36:12.003068,6. Work Remotely?,Yes
+2025-04-29 13:36:12.411519,6. Work Remotely?,Yes
+2025-04-29 13:36:15.247550,6. Work Remotely?,No
+2025-04-29 13:36:16.018017,6. Work Remotely?,No
+2025-04-29 13:36:16.155120,6. Work Remotely?,No
+2025-04-29 13:36:17.149233,7. Years of Experience,6-10
+2025-04-29 13:38:55.023521,2. How often do you code?,Daily
+2025-04-29 13:39:02.341262,2. How often do you code?,Daily
+2025-04-29 13:42:01.941428,7. What is your preferred backend language?,Node.js
+2025-04-29 13:42:04.544487,6. How many years of coding experience do you have?,0-1
+2025-04-29 13:42:06.176623,7. What is your preferred backend language?,Node.js
+2025-04-29 13:42:06.324302,7. What is your preferred backend language?,Node.js
+2025-04-29 13:42:09.648480,7. What is your preferred backend language?,Node.js
+2025-04-29 13:42:13.854924,7. What is your preferred backend language?,Java
+2025-04-29 13:42:17.315838,5. How do you prefer to learn?,Courses
+c60f7933-bee3-4a02-8e60-9575f68a4b32,2025-04-29 13:45:27.268402,1. What is your favorite programming language?,Python
+c60f7933-bee3-4a02-8e60-9575f68a4b32,2025-04-29 13:45:27.271414,2. How often do you code?,Daily
+c60f7933-bee3-4a02-8e60-9575f68a4b32,2025-04-29 13:45:27.272891,3. Which IDE do you prefer?,VSCode
+c60f7933-bee3-4a02-8e60-9575f68a4b32,2025-04-29 13:45:27.274382,4. What area are you most interested in?,Web Dev
+c60f7933-bee3-4a02-8e60-9575f68a4b32,2025-04-29 13:45:27.275404,5. How do you prefer to learn?,YouTube
+c60f7933-bee3-4a02-8e60-9575f68a4b32,2025-04-29 13:45:27.277629,6. How many years of coding experience do you have?,0-1
+c60f7933-bee3-4a02-8e60-9575f68a4b32,2025-04-29 13:45:27.278625,7. What is your preferred backend language?,Node.js
+35d16e70-4b05-4c7e-a385-0801ed54771d,2025-04-29 13:47:49.667977,1. What is your favorite programming language?,Python
+35d16e70-4b05-4c7e-a385-0801ed54771d,2025-04-29 13:47:49.670991,2. How often do you code?,Daily
+35d16e70-4b05-4c7e-a385-0801ed54771d,2025-04-29 13:47:49.675339,3. Which IDE do you prefer?,VSCode
+35d16e70-4b05-4c7e-a385-0801ed54771d,2025-04-29 13:47:49.678356,4. What area are you most interested in?,Web Dev
+35d16e70-4b05-4c7e-a385-0801ed54771d,2025-04-29 13:47:49.681669,5. How do you prefer to learn?,YouTube
+35d16e70-4b05-4c7e-a385-0801ed54771d,2025-04-29 13:47:49.683688,6. How many years of coding experience do you have?,0-1
+35d16e70-4b05-4c7e-a385-0801ed54771d,2025-04-29 13:47:49.684827,7. What is your preferred backend language?,PHP
+2025-04-29 13:59:07.836507,1. What is your favorite programming language?,Python
+2025-04-29 13:59:07.837764,2. How often do you code?,Daily
+2025-04-29 13:59:07.839081,3. Which IDE do you prefer?,VSCode
+2025-04-29 13:59:07.840159,4. What area are you most interested in?,Web Dev
+2025-04-29 13:59:07.842588,5. How do you prefer to learn?,YouTube
+2025-04-29 13:59:07.843588,6. How many years of coding experience do you have?,0-1
+2025-04-29 13:59:07.843588,7. What is your preferred backend language?,Java
+2025-04-29 13:59:18.518313,1. What is your favorite programming language?,Python
+2025-04-29 13:59:18.519314,2. How often do you code?,Daily
+2025-04-29 13:59:18.519314,3. Which IDE do you prefer?,VSCode
+2025-04-29 13:59:18.520726,4. What area are you most interested in?,Web Dev
+2025-04-29 13:59:18.521737,5. How do you prefer to learn?,YouTube
+2025-04-29 13:59:18.522740,6. How many years of coding experience do you have?,0-1
+2025-04-29 13:59:18.524737,7. What is your preferred backend language?,Node.js
